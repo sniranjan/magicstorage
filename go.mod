@@ -1,5 +1,7 @@
 module github.com/securityclippy/magicstorage
 
+go 1.14
+
 require (
 	github.com/aws/aws-sdk-go v1.22.2
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
