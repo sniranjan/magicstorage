@@ -1,4 +1,4 @@
-package magicstorage
+package github.com/sniranjan/magicstorage
 
 import (
 	"bytes"
