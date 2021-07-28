@@ -1,4 +1,4 @@
-module github.com/securityclippy/magicstorage
+module github.com/sniranjan/magicstorage
 
 go 1.14
 
